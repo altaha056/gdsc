@@ -4,3 +4,7 @@ penambahn fitur a
 2
 3
 4
+
+dev push
+dev fitur-a
+dev push
